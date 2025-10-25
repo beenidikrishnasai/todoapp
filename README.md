@@ -141,8 +141,3 @@ To deploy this project run
 
  - [FastAPI - The Complete Course 2023 (Beginner + Advanced)](https://www.udemy.com/course/fastapi-the-complete-course/#instructor-1)
 
-
-## Authors
-
-- [@praveenRI007](https://www.github.com/praveenRI007)
-
